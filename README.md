@@ -100,4 +100,4 @@ Aspiring Data Analyst | Chennai, Tamil Nadu
 
 ---
 
-*Project 5 of a 60-day data analytics portfolio challenge.*
+*Project 4 of a 60-day data analytics portfolio challenge.*
