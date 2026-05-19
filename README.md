@@ -96,7 +96,7 @@ Raw web data is messy — inconsistent formats, missing values, dollar signs in 
 ## 👩‍💻 Author
 **Varshini**
 Aspiring Data Analyst | Chennai, Tamil Nadu
-[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/varshini-anburaj-530260227/)) · 
+[LinkedIn]([https://www.linkedin.com/in/varshini-anburaj-530260227/]) · 
 
 ---
 
